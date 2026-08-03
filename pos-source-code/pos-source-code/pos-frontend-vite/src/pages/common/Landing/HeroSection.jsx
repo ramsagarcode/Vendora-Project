@@ -37,7 +37,7 @@ const HeroSection = () => {
               className="bg-gradient-to-r from-primary to-emerald-600 bg-clip-text text-transparent animate-fade-in-up"
               style={{ animationDelay: '0.1s' }}
             >
-              Powerful POS System For
+              Powerful Vendora POS System For
             </span>
             <br />
             <TypewriterText

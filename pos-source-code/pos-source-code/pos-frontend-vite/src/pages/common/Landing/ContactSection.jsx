@@ -23,7 +23,7 @@ const ContactSection = () => {
                 Ready to Streamline Your Store?
               </h2>
               <p className="text-xl opacity-90">
-                Join thousands of retailers who trust our POS system to grow their business
+                Join thousands of retailers who trust our Vendora POS system to grow their business
               </p>
             </div>
             
@@ -57,7 +57,7 @@ const ContactSection = () => {
                       type="tel" 
                       id="phone" 
                       className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-primary text-gray-900" 
-                      placeholder="+91 98765 43210"
+                      placeholder="+91 8130 512045"
                     />
                   </div>
                   <div>
@@ -115,8 +115,8 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <p className="font-medium mb-1">Phone</p>
-                    <p className="opacity-90">+91 98765 43210</p>
-                    <p className="opacity-90">+91 98765 43211</p>
+                    <p className="opacity-90">+91 8002304578</p>
+                    <p className="opacity-90">+91 813512045</p>
                   </div>
                 </div>
                 
@@ -126,8 +126,8 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <p className="font-medium mb-1">Email</p>
-                    <p className="opacity-90">sales@pospro.com</p>
-                    <p className="opacity-90">support@pospro.com</p>
+                    <p className="opacity-90">sales@vendora.com</p>
+                    <p className="opacity-90">support@vendorapos.com</p>
                   </div>
                 </div>
                 
@@ -137,8 +137,8 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <p className="font-medium mb-1">Office Address</p>
-                    <p className="opacity-90">123 Tech Park, Whitefield</p>
-                    <p className="opacity-90">Bangalore, Karnataka 560066</p>
+                    <p className="opacity-90">Institutional Area, Phase 2, Industrial Area, Sector 62</p>
+                    <p className="opacity-90">Noida, Uttar Pradesh 201309</p>
                   </div>
                 </div>
                 
